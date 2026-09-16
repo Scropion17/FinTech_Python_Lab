@@ -1,2 +1,0 @@
-# FinTech_Python_Lab
-
